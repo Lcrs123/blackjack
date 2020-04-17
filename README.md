@@ -1,2 +1,2 @@
 # blackjack
-Blackjack game I made for learning OOP
+Simple blackjack game I made for learning OOP
